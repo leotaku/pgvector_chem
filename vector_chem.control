@@ -1,0 +1,4 @@
+comment = 'vector distance metrics relevant in chemoinformatics domains'
+default_version = '0.1.0'
+module_pathname = '$libdir/vector_chem'
+relocatable = true
