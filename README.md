@@ -69,3 +69,9 @@ Not at this time.
 [pgvector]: https://github.com/pgvector/pgvector#pgvector
 [bajusz2015]: https://jcheminf.biomedcentral.com/articles/10.1186/s13321-015-0069-3
 
+## License
+
+`pgvector_chem` is free and open source software distributed under the terms of The PostgreSQL License.
+
+Substantial parts of the extension have been adapted from the existing `pgvector` extension.
+As such, their copyright assignments should also be observed and their original license has been included in this code distribution.
