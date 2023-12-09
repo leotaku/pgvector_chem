@@ -3,7 +3,7 @@ EXTVERSION = 0.1.0
 
 MODULE_big = vector_chem
 DATA = $(wildcard sql/*--*.sql)
-OBJS = src/tanimoto.o
+OBJS = src/vector_chem.o
 HEADERS = src/vector.h
 
 TESTS = $(wildcard test/sql/*.sql)
